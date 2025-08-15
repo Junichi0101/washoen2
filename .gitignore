@@ -1,0 +1,15 @@
+# OSやエディタの設定ファイル
+.vscode/
+.DS_Store
+
+# 圧縮ファイル
+*.zip
+
+# GitHubトークンや鍵ファイル
+github_pat_*
+*.pem
+*.key
+*.pub
+
+# その他不要な一時ファイル
+*Zone.Identifier
